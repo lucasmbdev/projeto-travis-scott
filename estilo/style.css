@@ -112,7 +112,7 @@ section#img02 {
     margin: auto;
     background-color: black;
     border-radius: 15px;
-    box-shadow: 0px 0px 20px 0px rgba(255, 0, 0, 0.658);
+    box-shadow: 0px 0px 20px 0px rgb(255, 0, 0);
 }
 
 .div-video {

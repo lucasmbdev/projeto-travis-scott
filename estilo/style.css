@@ -92,7 +92,7 @@ section.imagem > p {
 section#img01 {
     background-image: url(../imagens/tsbackground001.jpg);
     background-position: top center;
-    padding-top: 40vh;
+    padding-top: 20vh;
     padding-bottom: 10vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -101,7 +101,7 @@ section#img01 {
 section#img02 {
     background-image: url(../imagens/tsbackground002.jpg);
     background-position: top center;
-    padding-top: 40vh;
+    padding-top: 20vh;
     padding-bottom: 10vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -134,4 +134,6 @@ footer {
     color: white;
     padding: 10px;
     margin-top: 20px;
+    font-family: var(--font3);
+    font-weight: bold;
 }
